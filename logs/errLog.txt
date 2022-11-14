@@ -3,3 +3,6 @@
 2022-10-31	19:21:34	ecc59f03-89a8-44f2-b53c-fb32b2c79525	TypeError: fsPromises.readFil is not a function
 2022-11-04	12:44:52	3da2f2c8-58d4-4501-bcfe-3c3f4ca6790a	Error: Not allowed by CORS
 2022-11-04	12:44:52	53dddf0a-d410-4138-aebb-6250a7540f63	Error: Not allowed by CORS
+2022-11-14	14:54:07	37fd7bb1-7b82-41fd-8b79-b542167efc9d	SyntaxError: Unexpected token f in JSON at position 9
+2022-11-14	14:54:19	455c193f-d0b0-4ef8-bf74-c09c5d8dd7d9	SyntaxError: Unexpected token f in JSON at position 12
+2022-11-14	14:54:46	423a963f-5d1d-4249-9601-6012692a813d	SyntaxError: Unexpected token f in JSON at position 9
